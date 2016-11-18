@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HijriBirthdayAndAge</string>
+    <string name="action_settings">Settings</string>
+    <string name="your_islamic_birthday">Your birthday</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="your_birthday">Your Birthday:</string>
+    <string name="your_islamic_age">Your Islamic Age:</string>
+    <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111 </string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="muharram">,MUHARRAM</string>
+    <string name="safar">,SAFAR</string>
+    <string name="rabi_al_awwal">,RABI-AL-AWWAL</string>
+    <string name="rabi_al_thani">,RABI-AL-THANI</string>
+    <string name="jummad_al_awwal">,JUMAD-AL-AWWAL</string>
+    <string name="jumad_al_thani">,JUMAD-AL-THANI</string>
+    <string name="rajab">,RAJAB</string>
+    <string name="shaban">,SHABAN</string>
+    <string name="ramadan">,RAMADAN</string>
+    <string name="shawwal">,SHAWAAL</string>
+    <string name="zul_qaadah">,ZUL-QAADAH</string>
+    <string name="zul_hijjah">,ZUL-HIJJAH</string>
+    <string name="hijri_age">109Hijri years,4months,11days</string>
+    <string name="hijri_date">,19,ZUL-HIJJAH(12),1327</string>
+    <string name="your_current_age">Your Age</string>
+
+</resources>
